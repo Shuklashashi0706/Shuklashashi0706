@@ -17,11 +17,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z4UAwgIzjcuiqqqRl6Yfl1FugDxM_f9j/view?usp=sharing](https://drive.google.com/file/d/1Z4UAwgIzjcuiqqqRl6Yfl1FugDxM_f9j/view?usp=sharing)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashi-kumar-shukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashi-kumar-shukla/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/spyder(https://www.youtube.com/channel/ucjfdpjuivrrivohirw8fvva)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spyder(https://www.youtube.com/channel/ucjfdpjuivrrivohirw8fvva)" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_shukla_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_shukla_03/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashi-kumar-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kumar-shukla" height="30" width="40" /></a>
+<a href="https://medium.com/@shuklashashi169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shuklashashi169" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/spyder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spyder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_shukla_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_shukla_03" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shuklashiudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shuklashiudo" height="30" width="40" /></a>
 </p>
 
