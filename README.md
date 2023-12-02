@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js,WEB3,Typescript**
 
-- 👨‍💻 All of my projects are available at [Protfolio webite on working](Protfolio webite on working)
+- 👨‍💻 All of my projects are available at [Protfolio webite on working]
 
 - 💬 Ask me about **React,MongoDb,Node.js,Express,Content Creation**
 
