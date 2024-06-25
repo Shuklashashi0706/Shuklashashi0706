@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuklashashi0706" alt="shuklashashi0706" /></a> </p>
 
-- 🔭 I’m currently working on **Deflix (My Internship Project)**
+- 🔭 I’m currently working on **Deflix http://143.244.134.9:5173 (My Internship Project)**
 
 - 🌱 I’m currently learning **Next.js,WEB3,Typescript**
 
