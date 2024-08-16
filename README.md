@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shashi-kumar-shukla/**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DfTJjb1HJriZfNzHNCTv_Gok1gE0mU5P/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jVyaOBMKnW6Wy89ONiv4y-RsycrEc1mC/view?usp=sharing)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
