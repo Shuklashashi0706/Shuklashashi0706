@@ -2,13 +2,11 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Web3 Builder</h3>
 
 <p align="center">
-  <a href="https://shashikshukla.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shashikshukla.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href=" https://shashikshukla.tech/?utm_source=github&utm_medium=referral&utm_campaign=readme" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shashikshukla.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shashi-kumar-shukla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuklashashi0706&label=Profile%20views&color=0e75b6&style=flat" alt="shuklashashi0706" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuklashashi0706" alt="shuklashashi0706" /></a> </p>
 
 ---
 
