@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi Shukla</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Web3 Builder</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast </h3>
 
 <p align="center">
   <a href=" https://shashikshukla.tech/?utm_source=github&utm_medium=referral&utm_campaign=readme" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shashikshukla.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,7 +16,7 @@
 - 🧠 Diving deeper into **AI/ML** — building smarter products with LLMs, vector search & cascade pipelines
 - 💼 Currently **SDE-1 @ NFThing** — built ELK-powered personalized feeds across 1M+ posts, cutting search latency by ~60%
 - 🏢 Previously at **Hewlett Packard Enterprise** and **Greyside** (Founding Engineer)
-- 🌐 Check out my portfolio: **[shashikshukla.tech](https://shashikshukla.tech/)**
+- 🌐 Check out my portfolio: **[shashikshukla.tech]( https://shashikshukla.tech/?utm_source=github&utm_medium=referral&utm_campaign=readme)**
 - 💬 Open to freelance — can get your website or app built and shipped on your timeline
 - ⚡ Always learning, always building
 
